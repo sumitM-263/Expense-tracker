@@ -5,7 +5,9 @@
 
 A simple and interactive Expense Tracker App built with vanilla JavaScript. It allows users to add, delete, and persist their expenses using localStorage.
 
+
 Features
+
 ✅ Add new expenses with name and amount
 
 ✅ View a list of added expenses
@@ -17,6 +19,7 @@ Features
 ✅ Data persists using localStorage (no loss on page refresh)
 
 ✅ Clean and minimal UI
+
 
 
 Technologies Used
